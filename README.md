@@ -16,12 +16,8 @@ I am a CSE student passionate about AI/ML and Software Engineering, currently fo
 **Core Computer Science:** Data Structures & Algorithms, Problem Solving  
 **Tools & Platforms:** Git, GitHub, VS Code, Linux  
 
----
-
-## What I'm Working On
-
-- 🎯 Solving programming problems and sharpening Algorithmic Thinking.
-- 🚀 Exploring PyTorch ecosystem and Neural Network architectures.
-- 📚 Building hands-on Machine Learning & Software Engineering projects.
 
 
+## 🐍 My GitHub Contributions Grid
+
+![Snake animation](https://github.com/samrat2727/samrat2727/blob/output/github-contribution-grid-snake.svg)
