@@ -1,21 +1,53 @@
-# Hi, I'm Samrat
+# Hi, I'm S M Samrat Mahmud 👋
 
-**CSE Student** at [Northern University Bangladesh](https://nub.ac.bd)
+### CSE Student at [Northern University Bangladesh](https://nub.ac.bd/) | Aspiring AI/ML Engineer | Problem Solver
 
-I am a CSE student passionate about AI/ML and Software Engineering, currently focusing on Deep Learning, NLP, and Competitive Programming.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samrat--mahmud-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-samrat2727-black?style=flat-square&logo=github)](https://github.com/samrat2727)
+*Turning complex data into powerful insights and driving real-world impact through AI and software solutions.*
 
 ---
 
-## Tech Stack
+<h2 align="center">🐍 My GitHub Contributions as Snake Game!</h2>
 
-**Languages:** C, C++, Python  
-**ML/DL:** PyTorch, Deep Learning, Natural Language Processing (NLP)  
-**Core Computer Science:** Data Structures & Algorithms, Problem Solving  
-**Tools & Platforms:** Git, GitHub, VS Code, Linux  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samrat2727/samrat2727/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
+---
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/s-m-samrat-mahmud-05aa323a8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/samrat2727" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-![Snake Animation](https://raw.githubusercontent.com/samrat2727/samrat2727/output/github-contribution-grid-snake-dark.svg)
+---
+
+## 🧑‍💻 About Me
+
+Computer Science student at **Northern University Bangladesh** with a strong focus on **AI/Machine Learning**, **Deep Learning**, and **Competitive Programming**.
+
+**What I bring to the table:**
+* 🧠 Strong foundation in machine learning, statistical methods, and algorithms
+* 💻 Proficient in Python, C, C++, and modern AI development frameworks
+* 🔬 Passionate about Deep Learning, NLP, and building end-to-end projects
+* 🚀 Fast learner, collaborative team player, and persistent problem solver
+* ☕ Powered by code, curiosity, and continuous improvement!
+
+---
+
+## 🛠 Tech Stack & Tools
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Machine Learning & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
