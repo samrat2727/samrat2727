@@ -1,8 +1,10 @@
-# Hi, I'm S M Samrat Mahmud 👋
+<h1 align="center">Hi, I'm S M Samrat Mahmud 👋</h1>
 
-### CSE Student at [Northern University Bangladesh](https://nub.ac.bd/) | Aspiring AI/ML Engineer | Problem Solver
+<h3 align="center">CSE Student at <a href="https://nub.ac.bd/">Northern University Bangladesh</a> | Aspiring AI/ML Engineer | Problem Solver</h3>
 
-*Turning complex data into powerful insights and driving real-world impact through AI and software solutions.*
+<p align="center">
+  <em>Turning complex data into powerful insights and driving real-world impact through AI and software solutions.</em>
+</p>
 
 ---
 
