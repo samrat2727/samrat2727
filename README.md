@@ -18,6 +18,4 @@ I am a CSE student passionate about AI/ML and Software Engineering, currently fo
 
 
 
-## 🐍 My GitHub Contributions Grid
-
-![Snake animation](https://github.com/samrat2727/samrat2727/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/samrat2727/samrat2727/output/github-contribution-grid-snake-dark.svg)
